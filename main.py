@@ -26,6 +26,7 @@ def getImageUrls(file_name):
 
     # Close opend file
     url_file.close()
+    urls = [line.strip() for line in urls]
 
     return urls
 
