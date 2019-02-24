@@ -33,3 +33,9 @@ like: ***Images download completed***
 Now you will see a newly created directory named '**images**' where you have cloned the project.
 
 All the images are downloaded and stored in this images directory.
+
+
+# run test case
+To run test case, go to the location where **test_cases.py** is. Then in terminal run command 
+*python test_cases.py*
+
